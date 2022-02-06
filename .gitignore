@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+/.vs
+/Slider Puzzle/.vs/Slider Puzzle/v17
